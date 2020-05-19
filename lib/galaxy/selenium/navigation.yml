@@ -210,6 +210,8 @@ multi_history_view:
     current_history_check: '#history-column-${history_id} .current-label'
     empty_message_check: '.empty-message'
     switch_button: '#history-column-${history_id} .switch-to'
+    view_data: '.display-btn'
+    edit_data: '.annotate-btn'
 
   history_dropdown_menu:
     selectors:
